@@ -1,0 +1,13 @@
+{
+    "autodeskProduct": "Fusion360",
+    "type": "addin",
+    "id": "7f2c9e14-6a81-4d3b-9c50-fusion-gear-gen-01",
+    "author": "Juan Gras (Chinese UI fork)",
+    "description": {
+        "": "Fusion 齿轮生成器：直齿、斜齿、内齿、齿条、锥齿、蜗轮蜗杆。"
+    },
+    "version": "1.0.0",
+    "runOnStartup": false,
+    "supportedOS": "windows|mac",
+    "editEnabled": true
+}
