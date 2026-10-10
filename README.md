@@ -42,7 +42,7 @@ Fusion 加载项，一次生成一只（或一对）齿轮，用来做零件，�
 
 - 托森差速器、行星减速器整机装配（见 [TorsenDiffGenerator](https://github.com/SFNFIH/TorsenDiffGenerator) 与 [PlanetaryReducerGenerator](https://github.com/SFNFIH/PlanetaryReducerGenerator)）
 - 蜗杆命令是减速蜗杆，不是交叉轴斜齿
-- 按钮图标资源未包含在本仓库中
+- 工具栏图标在 `resources/`，应用图标在 `icons/`
 
 ## License
 
